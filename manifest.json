@@ -1,7 +1,7 @@
 {
-  "name": "Hanz Progressive Web App",
+  "name": "TodoABC",
   "short_name": "PWA",
-  "description": "hanz Demo for progressive web app with push notifications, background sync etc.",
+  "description": "LF buscador de blogs",
   "start_url": "./index.html?utm=homescreen",
   "display": "standalone",
   "orientation": "portrait",
@@ -18,9 +18,9 @@
       "sizes": "512x512"
   }],
   "author": {
-    "name": "lanz fuego Gokulakrishnan Kalaikovan",
-    "website": "https://gokulkrishh.github.io",
-    "github": "https://github.com/gokulkrishh",
+    "name": "LF",
+    "website": "",
+    "github": "",
     "source-repo": "https://github.com/gokulkrishh/demo-progressive-web-app"
   },
   "gcm_sender_id": "847244712742",
