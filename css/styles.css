@@ -538,7 +538,7 @@ b i a {
 }
 
 .card__spinner::after {
-  content: "Loading...";
+  
   color: #1E88E5;
   background: #fff;
   position: absolute;
