@@ -1,7 +1,7 @@
 {
   "name": "TodoABC",
-  "short_name": "PWA",
-  "description": "LF buscador de blogs",
+  "short_name": "Todo ABC",
+  "description": "Un buscador simple",
   "start_url": "./index.html?utm=homescreen",
   "display": "standalone",
   "orientation": "portrait",
@@ -21,7 +21,7 @@
     "name": "LF",
     "website": "",
     "github": "",
-    "source-repo": "https://github.com/gokulkrishh/demo-progressive-web-app"
+    "source-repo": ""
   },
   "gcm_sender_id": "847244712742",
   "gcm_user_visible_only": true
